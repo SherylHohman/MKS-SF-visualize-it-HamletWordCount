@@ -1,0 +1,14 @@
+/* your beautiful css styling goes here! */
+
+.bar {
+  /* stuff */
+}
+
+.bar:hover {
+  fill: yellow;
+}
+
+.wordCloud{
+  width: 95%;
+  height: 95%;
+}
